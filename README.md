@@ -11,3 +11,7 @@
 This is an example of a GitHub repository.
 
 neat!
+
+this is super neat!
+
+some additional changes.
